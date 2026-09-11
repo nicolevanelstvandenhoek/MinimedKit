@@ -28,6 +28,12 @@
             "value" : "\"%1$@\" hat einen niedrigen Akkustand"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"%1$@\" has a low battery"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -175,6 +181,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "%1$@ IE verbleibend"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ U left"
           }
         },
         "es" : {
@@ -332,6 +344,12 @@
             "value" : "%1$@ IE verbleibend: %2$@"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%1$@ U left: %2$@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -487,6 +505,12 @@
             "value" : "Ein Bolus wird bereits abgegeben"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "A bolus is already in progress"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -637,6 +661,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AlarmClockReminder"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "AlarmClockReminder"
@@ -797,6 +827,12 @@
             "value" : "AlarmSensor"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "AlarmSensor"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -950,6 +986,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Alkalisch"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alkaline"
           }
         },
         "es" : {
@@ -1107,6 +1149,12 @@
             "value" : "Auto-Aus Alarm"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Auto-Off Alarm"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1254,6 +1302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Basalprofil %1$@: %2$@ E/Stunde"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Basal Profile %1$@: %2$@ U/hour"
           }
         },
         "es" : {
@@ -1411,6 +1465,12 @@
             "value" : "Batterie leer"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battery Depleted"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1560,6 +1620,12 @@
             "value" : "Batteriewechsel Zeitlimit"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Battery Out Limit"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -1704,6 +1770,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BatteryIssue17"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "BatteryIssue17"
@@ -1858,6 +1930,12 @@
             "value" : "BatteryIssue21"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "BatteryIssue21"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2002,6 +2080,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolus"
@@ -2154,6 +2238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolusabgabe läuft "
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus in progress"
           }
         },
         "es" : {
@@ -2311,6 +2401,12 @@
             "value" : "Bolusabgabe läuft "
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus in Progress"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2458,6 +2554,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bolus ist möglicherweise fehlgeschlagen: %1$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bolus may have failed: %1$@"
           }
         },
         "es" : {
@@ -2609,6 +2711,12 @@
             "value" : "Kanada"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Canada"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -2756,6 +2864,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Temporäre Basalrate abbrechen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cancel Temp Basal"
           }
         },
         "es" : {
@@ -2913,6 +3027,12 @@
             "value" : "Zeitplan für das Basalraten Profil ändern"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Basal Profile Schedule"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3068,6 +3188,12 @@
             "value" : "Basalraten Plan ändern"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Basal Schedule"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3215,6 +3341,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wechsel sofort die Pumpenbatterie"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change the pump battery immediately"
           }
         },
         "es" : {
@@ -3370,6 +3502,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wechsel jetzt das Pumpenreservoir"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change the pump reservoir now"
           }
         },
         "es" : {
@@ -3533,6 +3671,12 @@
             "value" : "Zeit ändern"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change Time"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3686,6 +3830,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Überprüfe, ob die Pumpe nicht unterbrochen wurde oder sich im Füllmodus befindet, oder prozentual temporären Basalraten aktiviert sind"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Check that the pump is not suspended or priming, or has a percent temp basal type"
           }
         },
         "es" : {
@@ -3849,6 +3999,12 @@
             "value" : "Alarm löschen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Clear Alarm"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -3996,6 +4152,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Befehl verweigert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Command refused"
           }
         },
         "es" : {
@@ -4638,6 +4800,12 @@
             "value" : "Gerät zurücksetzen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Device Reset"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -4785,6 +4953,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Schließen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dismiss"
           }
         },
         "es" : {
@@ -4942,6 +5116,12 @@
             "value" : "Leeres Reservoir"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Empty Reservoir"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5089,6 +5269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ereignisverlauf"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Event History"
           }
         },
         "es" : {
@@ -5246,6 +5432,12 @@
             "value" : "Glukoseseite fehlgeschlagen crc-Prüfung"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Glucose page failed crc check"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5393,6 +5585,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Gehe zu den Pumpeneinstellungen und wählen den Insulintyp aus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Go to pump settings and select insulin type"
           }
         },
         "es" : {
@@ -5544,6 +5742,12 @@
             "value" : "Verlaufsseite ist nicht vorhanden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History page does not exist"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5691,6 +5895,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Verlaufsseite fehlgeschlagen crc check"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "History page failed crc check"
           }
         },
         "es" : {
@@ -5842,6 +6052,12 @@
             "value" : "Insulin ausgesetzt"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulin Suspended"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5983,6 +6199,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Insulintyp ist nicht konfiguriert"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Insulin Type is not configured"
           }
         },
         "es" : {
@@ -6132,6 +6354,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Ungültige Antwort während %1$@: %2$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Invalid response during %1$@: %2$@"
           }
         },
         "es" : {
@@ -6284,6 +6512,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lithium"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Lithium"
@@ -6444,6 +6678,12 @@
             "value" : "Loop hat einen Bolusbefehl an die Pumpe gesendet, konnte aber nicht bestätigen, dass die Pumpe den Befehl erhalten hat. Zur Sicherheit geht Loop davon aus, dass der Bolus abgegeben wurde. Wenn Loop schließlich den Verlauf von der Pumpe abruft und die geschätzte Bolus-Endzeit überschritten ist, aktualisiert Loop seine Aufzeichnungen über die Abgabe, damit sie mit den Meldungen der Pumpe übereinstimmen."
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Loop sent a bolus command to the pump, but was unable to confirm that the pump received the command. For safety, Loop will assume the bolus was delivered. When Loop eventually fetches history from the pump, and the estimated bolus finish time is passed, Loop will update its records of delivery to match what the pump reports."
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6597,6 +6837,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Niedriger Batteriestatus"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low Battery"
           }
         },
         "es" : {
@@ -6760,6 +7006,12 @@
             "value" : "Niedriges Reservoir"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low Reservoir"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -6909,6 +7161,12 @@
             "value" : "Niedriger RileyLink Batteriestatus"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Low RileyLink Battery"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7056,6 +7314,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Stelle sicher, dass sich Dein RileyLink in der Nähe befindet und eingeschaltet ist"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Make sure your RileyLink is nearby and powered on"
           }
         },
         "es" : {
@@ -7211,6 +7475,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Max Einstellung überschritten"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Max setting exceeded"
           }
         },
         "es" : {
@@ -7374,6 +7644,12 @@
             "value" : "Mahlzeit"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Meal"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7523,6 +7799,12 @@
             "value" : "Minimed"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimed"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -7667,6 +7949,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Minimed %@"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Minimed %@"
@@ -7995,6 +8283,12 @@
             "value" : "Neue Zeit"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New Time"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8142,6 +8436,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Keine-Abgabe-Warunung"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No Delivery Alarm"
           }
         },
         "es" : {
@@ -8293,6 +8593,12 @@
             "value" : "Kein RileyLink verbunden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No RileyLink Connected"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8440,6 +8746,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Nordamerika"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "North America"
           }
         },
         "es" : {
@@ -8597,6 +8909,12 @@
             "value" : "OK"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ok"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -8747,6 +9065,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "OK"
@@ -8907,6 +9231,12 @@
             "value" : "Prozentuale temporäre Basalrate"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Percent Temp Basal"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9054,6 +9384,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Bitte überprüfe den Bolusverlauf Deiner Pumpe, um festzustellen, ob der Bolus abgegeben wurde."
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Please check your pump bolus history to determine if the bolus was delivered."
           }
         },
         "es" : {
@@ -9205,6 +9541,12 @@
             "value" : "Befüllen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Prime"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9352,6 +9694,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pumpenbatterie schwach"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump Battery Low"
           }
         },
         "es" : {
@@ -9507,6 +9855,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pumpe hat nicht geantwortet"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump did not respond"
           }
         },
         "es" : {
@@ -9826,6 +10180,12 @@
             "value" : "Pumpe ist gesperrt"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump is suspended"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -9981,6 +10341,12 @@
             "value" : "Pumpe ist pausiert"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump is Suspended"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10128,6 +10494,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pumpenreservoir leer"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump Reservoir Empty"
           }
         },
         "es" : {
@@ -10283,6 +10655,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pumpenreservoir niedrig"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pump Reservoir Low"
           }
         },
         "es" : {
@@ -10763,6 +11141,12 @@
             "value" : "Reprogram Error"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reprogram Error"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -10907,6 +11291,12 @@
           }
         },
         "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Reservoir"
+          }
+        },
+        "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Reservoir"
@@ -11067,6 +11457,12 @@
             "value" : "Fortsetzen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Resume"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11216,6 +11612,12 @@
             "value" : "Zurückspulen"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Rewind"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11363,6 +11765,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Einstellen des RileyLink Funksignals fehlgeschlagen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "RileyLink radio tune failed"
           }
         },
         "es" : {
@@ -11520,6 +11928,12 @@
             "value" : "Geplante Basalrate"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Scheduled Basal"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11667,6 +12081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Profil auswählen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Select Profile"
           }
         },
         "es" : {
@@ -11824,6 +12244,12 @@
             "value" : "Signalverlust"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Signal Loss"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -11971,6 +12397,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unterbrechen"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Suspend"
           }
         },
         "es" : {
@@ -12122,6 +12554,12 @@
             "value" : "Temporäre Basalrate"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temp Basal"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12263,6 +12701,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Temporäre Basalrate: %1$.3f IE/h"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporary Basal: %1$.3f U/hour"
           }
         },
         "es" : {
@@ -12426,6 +12870,12 @@
             "value" : "Temporäre Basalrate: %1$d min"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporary Basal: %1$d min"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12587,6 +13037,12 @@
             "value" : "Temporäre Basalrate: %1$d%%"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Temporary Basal: %1$d%%"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12742,6 +13198,12 @@
             "value" : "Pumpendaten können nicht gespeichert werden"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to store pump data"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -12889,6 +13351,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unerwartete Antwort vom Pod %1$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unexpected response %1$@"
           }
         },
         "es" : {
@@ -13040,6 +13508,12 @@
             "value" : "Unbekannter Alarm"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown Alarm"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13187,6 +13661,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unbekannter Glukosedatensatztyp: %-1 @"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown glucose record type: %$1@"
           }
         },
         "es" : {
@@ -13338,6 +13818,12 @@
             "value" : "Unbekannter Verlaufsdatensatztyp: %1 @"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown history record type: %$1@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13485,6 +13971,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unbekannter Fehlercode der Pumpe: %1$@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown pump error code: %1$@"
           }
         },
         "es" : {
@@ -13639,6 +14131,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Unbekanntes Pumpenmodell: %@"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown pump model: %@"
           }
         },
         "es" : {
@@ -13796,6 +14294,12 @@
             "value" : "Unbekannte Antwort oder %1$@: %2$@"
           }
         },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unknown response during %1$@: %2$@"
+          }
+        },
         "es" : {
           "stringUnit" : {
             "state" : "translated",
@@ -13949,6 +14453,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Weltweit"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "World-Wide"
           }
         },
         "es" : {
