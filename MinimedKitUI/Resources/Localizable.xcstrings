@@ -2381,6 +2381,12 @@
             "value" : "Kannula alder"
           }
         },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leeftijd canule"
+          }
+        },
         "ro" : {
           "stringUnit" : {
             "state" : "translated",
@@ -5288,6 +5294,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "insulin alder"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Leeftijd insuline"
           }
         },
         "ro" : {
@@ -9090,6 +9102,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "status"
+          }
+        },
+        "nl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Status"
           }
         },
         "ro" : {
