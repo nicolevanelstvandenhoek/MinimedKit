@@ -1253,7 +1253,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alkaline en Lithium batterijen werken na verloop van tijd minder goed. Alkaline heeft de neiging om in de loop van de tijd een lineair spanningsverlies te hebben, terwijl lithium batterijen de neiging hebben om hun spanning te behouden tot halverwege hun levensduur. Bij normaal gebruik in een niet-MySentry-compatibele Minimed (x22/x15) insulinepomp met Loop, gaan Alkaline batterijen ongeveer 4 tot 5 dagen mee. Lithiumbatterijen gaan tussen de 1-2 weken mee. Deze selectie gebruikt verschillende leegloop snelheden voor batterijvoltage voor elk van de typen batterijen en waarschuwt de gebruiker wanneer een batterij ongeveer in 8 tot 10 uur leeg is."
+            "value" : "Alkaline- en lithiumbatterijen werken na verloop van tijd minder goed. Alkaline heeft de neiging om in de loop van de tijd een lineair spanningsverlies te hebben, terwijl lithiumbatterijen de neiging hebben om hun spanning te behouden tot halverwege hun levensduur. Bij normaal gebruik in een niet-MySentry-compatibele Minimed (x22/x15) insulinepomp met Loop, gaan alkalinebatterijen ongeveer 4 tot 5 dagen mee. Lithiumbatterijen gaan tussen de 1-2 weken mee. Deze selectie gebruikt verschillende leegloop snelheden voor batterijvoltage voor elk van de typen batterijen en waarschuwt de gebruiker wanneer een batterij ongeveer in 8 tot 10 uur leeg is."
           }
         },
         "pl" : {
@@ -5204,7 +5204,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Insuline\nOnderbroken"
+            "value" : "Insulinetoediening\nonderbroken"
           }
         },
         "pl" : {

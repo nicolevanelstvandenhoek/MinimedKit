@@ -2272,7 +2272,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bolus in Uitvoering"
+            "value" : "Bolus in uitvoering"
           }
         },
         "pl" : {
@@ -5093,7 +5093,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crc controle Glucosepagina mislukt"
+            "value" : "Crc controle glucosepagina mislukt"
           }
         },
         "pl" : {
@@ -5522,7 +5522,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Crc controle Geschiedenispagina mislukt"
+            "value" : "Crc controle geschiedenispagina mislukt"
           }
         },
         "pl" : {
@@ -8473,7 +8473,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ok"
+            "value" : "OK"
           }
         },
         "pl" : {
@@ -9648,7 +9648,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pomp is Onderbroken"
+            "value" : "Pomp is onderbroken"
           }
         },
         "pl" : {
@@ -10984,7 +10984,7 @@
         "nl" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Afstemmen van de RileyLink Radio mislukt"
+            "value" : "Afstemmen van de RileyLink radio mislukt"
           }
         },
         "pl" : {
