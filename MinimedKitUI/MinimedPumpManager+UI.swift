@@ -13,11 +13,14 @@ import MinimedKit
 import RileyLinkKitUI
 
 
-extension MinimedPumpManager: PumpManagerUI {
-
+extension MinimedPumpManager: @retroactive PumpManagerUI {
     
     public static var onboardingImage: UIImage? {
         return UIImage.pumpImage(in: nil, isLargerModel: false, isSmallImage: true)
+    }
+
+    public static var pickerImage: UIImage? {
+        return UIImage.pumpImage(in: .clear, isLargerModel: true, isSmallImage: false)
     }
 
     static public func setupViewController(initialSettings settings: PumpManagerSetupSettings, bluetoothProvider: BluetoothProvider, colorPalette: LoopUIColorPalette, allowDebugFeatures: Bool, prefersToSkipUserInteraction: Bool, allowedInsulinTypes: [InsulinType]) -> SetupUIResult<PumpManagerViewController, PumpManagerUI> {
@@ -88,7 +91,7 @@ extension MinimedPumpManager: PumpManagerUI {
 // MARK: - PumpStatusIndicator
 extension MinimedPumpManager {
     
-    public var pumpStatusHighlight: DeviceStatusHighlight? {
+    public var pumpStatusHighlight: PumpStatusHighlight? {
         return buildPumpStatusHighlight(for: state, recents: recents, andDate: dateGenerator())
     }
     
